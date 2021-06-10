@@ -38,6 +38,6 @@ vim /data/openpilot/selfdrive/hardware/eon/hardware.h
 다운로드 링크
 http://naver.me/xv0Ig0d5 테네시 파일럿 전용 SSH접속시 필요한 ppk 화일 다운로드 경로 - 암호로 다운로드 가능함..
 https://drive.google.com/file/d/1-EPga-ukGl9p4SsTMCKfJs6zrZpZ6dqC/view?usp=sharing - Ntune 앱설치 다운로드..
-
-
+https://play.google.com/store/apps/details?id=turbo.client  - 터보클라이언트로 SSH터미널이 아닌 상태에서 접속해서 수정이 가능한 앱으로 추천! 
+https://play.google.com/store/apps/details?id=com.sonelli.juicessh - ssh 터미널앱으로 vim으로 편집가능한 앱이며 되도록 필수로 설치를 요하는 앱.. 특히나 ssl에러시에 필수다..
 
