@@ -1,10 +1,6 @@
 # TenesiOP
 
-테네시 오픈 파일럿 도움말
---------------------------------------------------------------------------------------------
-- 구글드라이브 공유자료 - 공부 자료 동영상
-   https://drive.google.com/drive/folders/1I-2eW_33p7o3Hz0kgAygjv3BIYfLVmdt?usp=sharing
---------------------------------------------------------------------------------------------   
+테네시 오픈 파일럿 도움말 
    
 Git Pull 명령어 작업시에 SSL 에러 표시가 나오면서 업데이트가 안될때! 
   -> SSH 터미널에 접속해서 export GIT_SSL_NO_VERIFY=0 실행한다..
@@ -49,6 +45,13 @@ vim /data/openpilot/selfdrive/boardd/boardd.cc
 
 상기 모든 적용사양을 재부팅을 해야 적용됩니다.. 음성 사운드 관련 설정등도 재부팅해야 적용됩니다..
 
+--------------------------------------------------------------------------------------------
+- TWRP 및 이온접속 - 공부 자료 동영상 - 초창기 eon.ppk를 활용해서 접속 가능한 동영상 
+   https://drive.google.com/file/d/12uGwVXZkMyyDWaF0heV_ouDb8PyqBedU/view?usp=sharing
+   https://drive.google.com/file/d/1Lp_Y5vGeG-R4KqMHeQrinaax4r-VBguS/view?usp=sharing
+   https://drive.google.com/file/d/143vkDqCB99fjvmqJm3OjxE9PLiB1ksC-/view?usp=sharing
+   https://drive.google.com/file/d/1TeVzSJra-ZySX7Ea70GMH6ER9NndQ_ca/view?usp=sharing
+-------------------------------------------------------------------------------------------- 
 
 ------21년 6월 10일 초보와 고수도 봐야 하는 오픈파일럿 셋팅 관련된 내용 저장-------
 
