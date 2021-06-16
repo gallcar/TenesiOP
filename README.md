@@ -64,4 +64,8 @@ https://drive.google.com/file/d/1-EPga-ukGl9p4SsTMCKfJs6zrZpZ6dqC/view?usp=shari
 https://play.google.com/store/apps/details?id=turbo.client 
 - ssh 터미널앱으로 vim으로 편집가능한 앱이며 되도록 필수로 설치를 요하는 앱.. 특히나 ssl에러시에 필수다..
 https://play.google.com/store/apps/details?id=com.sonelli.juicessh 
-
+- 퍼티 64비트 32비트
+https://drive.google.com/file/d/1slJ-aa5CLzwbFc3fPXk0nypgFKxUWUQr/view?usp=sharing
+https://drive.google.com/file/d/1yCZpOe12nrI2uHG9pY6S5pm87yv9RwpC/view?usp=sharing
+-winscp
+https://drive.google.com/file/d/1rYHd_vI5KnaFQgQjweTHYYHRxqZXwbFK/view?usp=sharing
