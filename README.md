@@ -52,7 +52,8 @@ vim /data/openpilot/selfdrive/boardd/boardd.cc
    https://drive.google.com/file/d/143vkDqCB99fjvmqJm3OjxE9PLiB1ksC-/view?usp=sharing
    https://drive.google.com/file/d/1TeVzSJra-ZySX7Ea70GMH6ER9NndQ_ca/view?usp=sharing
 -------------------------------------------------------------------------------------------- 
-
+- 안드로이드 폰에서 엔튠과 터보클라이언트 관련해서 등록 하는법등 동영상
+https://drive.google.com/file/d/1UmV6d-_Uqim-lml2WIHSZReWLaPGk8mn/view?usp=sharing
 ------21년 6월 10일 초보와 고수도 봐야 하는 오픈파일럿 셋팅 관련된 내용 저장-------
 
 다운로드 링크 
