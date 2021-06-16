@@ -67,5 +67,5 @@ https://play.google.com/store/apps/details?id=com.sonelli.juicessh
 - 퍼티 64비트 32비트
 https://drive.google.com/file/d/1slJ-aa5CLzwbFc3fPXk0nypgFKxUWUQr/view?usp=sharing
 https://drive.google.com/file/d/1yCZpOe12nrI2uHG9pY6S5pm87yv9RwpC/view?usp=sharing
--winscp
+- winscp
 https://drive.google.com/file/d/1rYHd_vI5KnaFQgQjweTHYYHRxqZXwbFK/view?usp=sharing
